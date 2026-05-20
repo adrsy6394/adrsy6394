@@ -1,3 +1,4 @@
+![logo](https://github.com/adrsy6394/adrsy6394/blob/main/Adarsh%20Yadav.png)
 <h1 align="center">Hi 👋, I'm Adarsh Yadav</h1>
 <h3 align="center">A passionate AI Enabled Full-Stack Developer (MERN) from India</h3>
 <img width="400" height="400" alt="image" align="right" src="https://github.com/user-attachments/assets/610b8316-1d77-4c5d-8584-d9eef855d4f7" />
