@@ -1,4 +1,4 @@
-![logo](https://github.com/adrsy6394/adrsy6394/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png)
+![logo](https://canva.link/mvhmytn4y4dcrjh)
 <h1 align="center">Hi 👋, I'm Adarsh Yadav </h1>
 <h3 align="center">A passionate AI Enabled Full-Stack Developer (MERN)</h3>
 
