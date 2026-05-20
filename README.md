@@ -1,4 +1,4 @@
-![logo](https://canva.link/mvhmytn4y4dcrjh)
+![logo](https://adrsy6394/adrsy6394/canva.link/mvhmytn4y4dcrjh)
 <h1 align="center">Hi 👋, I'm Adarsh Yadav </h1>
 <h3 align="center">A passionate AI Enabled Full-Stack Developer (MERN)</h3>
 
