@@ -1,14 +1,14 @@
 ![logo](https://github.com/adrsy6394/adrsy6394/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Adarsh Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Adarsh Yadav </h1>
+<h3 align="center">A passionate AI Enabled Full-Stack Developer (MERN)</h3>
 
 <img align="right" alt="coding" width="400" src="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrsy6394&label=Profile%20views&color=0e75b6&style=flat" alt="adrsy6394" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **AI Enabled Full-Stack Developer (MERN)**
 
-- 💬 Ask me about **HTML,CSS,JavaScript and React JS**
+- 💬 Ask me about **HTML,CSS,JavaScript,React.js,Node.js,Express.js,MongoDB,JWT Auth,RAG System, AI Integration**
 
 - 📫 How to reach me **aky386832@gmail.com**
 
