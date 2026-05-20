@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Yadav</h1>
-<h3 align="center">A passionate AI Enabled Full_stack Developer (MERN) from India</h3>
+<h3 align="center">A passionate AI Enabled Full-Stack Developer (MERN) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrsy6394&label=Profile%20views&color=0e75b6&style=flat" alt="adrsy6394" /> </p>
 
